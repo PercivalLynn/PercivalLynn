@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PercivalLynn
+- 👋 Hi, I’m @Percival Lin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning #python js html css 
 - 💞️ I’m looking to collaborate on #
